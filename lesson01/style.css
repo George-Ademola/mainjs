@@ -73,3 +73,28 @@ nav ul li a:hover::after{
     padding: 10px 20px;
     margin-top: 150px;
 }
+#about{
+    background-color: #4c9e9e;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.about-text1{
+    font-size: 50px;
+    color: #fff;
+}
+.about-text2{
+    font-size: 35px;
+}
+.headermain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    color: #fff;
+    font-size: 20px;
+}
